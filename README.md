@@ -25,7 +25,7 @@ Notification Module – Sends alerts and updates to customers and dealers
 Reporting and Analytics Module – Generates reports for sales, inventory, and performance insights
 Workflow Automation Module – Automates processes using Salesforce Flow and Apex
 Documentation
-
+https://github.com/Bhuvaneshwardhyalan/WhatNext-Vision-Motors-Shaping-the-Future-of-Mobility-with-Innovation-and-Excellence/blob/main/WhatNext%20Vision%20Motors.pdf?utm_source=chatgpt.com
 Team Membres
 Bhuvaneshwar
 Zerubbabel
